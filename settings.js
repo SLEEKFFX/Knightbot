@@ -1,6 +1,6 @@
 const settings = {
-  packname: 'My Sticker Pack',
-  author: 'My Bot',
+  packname: 'sleekffx',
+  author: 'sleek',
   botName: "Knight Bot",
   botOwner: 'sleekffx', // Your name
   ownerNumber: '08140266965', //Your number
